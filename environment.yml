@@ -1,0 +1,6 @@
+name: Pour avancement
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
