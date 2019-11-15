@@ -1,4 +1,4 @@
-name: Pour avancement
+name: Pour Physique-chimie
 channels:
   - conda-forge
 dependencies:
